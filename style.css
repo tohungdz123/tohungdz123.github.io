@@ -1,0 +1,22 @@
+.two {
+    padding: 20px black;
+    border: 1px black solid;
+    margin: 0px;
+    border-color: black;
+    color: white;
+    vertical-align: middle !important;
+}
+
+#three {
+    font-family: 'Lobster', cursive;
+}
+
+#four {
+    color: white;
+}
+
+.five {
+    padding: auto;
+    border: solid;
+    padding color: grey;
+}
